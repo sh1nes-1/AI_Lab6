@@ -1,0 +1,13 @@
+*.log
+*.ipynb
+.idea
+venv
+data/test/*
+env/*
+.DS_Store
+.idea/
+*.mat
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+*.hdf5
