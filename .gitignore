@@ -5,6 +5,7 @@ venv
 env/*
 .DS_Store
 .idea/
+data/test/*
 *.mat
 .ipynb_checkpoints/
 *.pyc
